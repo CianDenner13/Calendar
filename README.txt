@@ -1,0 +1,15 @@
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEG1009_Engineering_Mathematics_III.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEG1010_Engineering_Mathematics_IV.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEG1010OCE401.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEG1010OCE402.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEN1017_Embedded_Systems.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEN1018_Circuits_Analysis_Techniques.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEN1022_Digital_&_Analogue_Electronics_I.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/EEN1091_CC++_Programming_for_Engineers.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1000_Engineering_Mechanics_Dynamics.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1001_ThermodynamicsEnergy.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1002_Electrical_Power_&_Electromechanical_Systems.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1003_Mechanics_of_Materials_I.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1005_Design_&_Solid_Modelling.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/MEC1008_Pneumatics_&_Hydraulics.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/output_ics/Transversal_Skills__FEC.ics
