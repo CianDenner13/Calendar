@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - EEN1091 C/C++ Programming for Engineers//EN
+X-WR-CALNAME:EEN1091 C/C++ Programming for Engineers
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T090000Z
+DTEND:20260114T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T090000Z
+DTEND:20260121T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T090000Z
+DTEND:20260128T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T090000Z
+DTEND:20260204T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T090000Z
+DTEND:20260211T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T090000Z
+DTEND:20260218T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T090000Z
+DTEND:20260304T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T090000Z
+DTEND:20260311T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T090000Z
+DTEND:20260318T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T090000Z
+DTEND:20260325T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T080000Z
+DTEND:20260401T090000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:d8df28d0-baad-476d-a119-6d23358de566-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T080000Z
+DTEND:20260408T090000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270113T090000Z
+DTEND:20270113T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270120T090000Z
+DTEND:20270120T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270127T090000Z
+DTEND:20270127T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270203T090000Z
+DTEND:20270203T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270210T090000Z
+DTEND:20270210T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270217T090000Z
+DTEND:20270217T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270303T090000Z
+DTEND:20270303T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270310T090000Z
+DTEND:20270310T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270317T090000Z
+DTEND:20270317T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270324T090000Z
+DTEND:20270324T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270331T080000Z
+DTEND:20270331T090000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:f0121096-dc26-4e87-95db-a1414fb4d001-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270407T080000Z
+DTEND:20270407T090000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T170000Z
+DTEND:20260114T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T170000Z
+DTEND:20260121T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T170000Z
+DTEND:20260128T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T170000Z
+DTEND:20260204T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T170000Z
+DTEND:20260211T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T170000Z
+DTEND:20260218T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T170000Z
+DTEND:20260304T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T170000Z
+DTEND:20260311T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T170000Z
+DTEND:20260318T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T170000Z
+DTEND:20260325T180000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T160000Z
+DTEND:20260401T170000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:a385f24d-be74-4d72-a777-80f3d9dd9835-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T160000Z
+DTEND:20260408T170000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270115T110000Z
+DTEND:20270115T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270122T110000Z
+DTEND:20270122T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270129T110000Z
+DTEND:20270129T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270205T110000Z
+DTEND:20270205T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270212T110000Z
+DTEND:20270212T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270219T110000Z
+DTEND:20270219T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270305T110000Z
+DTEND:20270305T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270312T110000Z
+DTEND:20270312T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270319T110000Z
+DTEND:20270319T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270326T110000Z
+DTEND:20270326T120000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270402T100000Z
+DTEND:20270402T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:c41a4c5d-d683-416b-b840-fe3c20b61dc4-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270409T100000Z
+DTEND:20270409T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260116T100000Z
+DTEND:20260116T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260123T100000Z
+DTEND:20260123T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260130T100000Z
+DTEND:20260130T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260206T100000Z
+DTEND:20260206T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260213T100000Z
+DTEND:20260213T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260220T100000Z
+DTEND:20260220T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260306T100000Z
+DTEND:20260306T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260313T100000Z
+DTEND:20260313T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260320T100000Z
+DTEND:20260320T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260327T100000Z
+DTEND:20260327T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260403T090000Z
+DTEND:20260403T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca22506-6a9b-455d-858c-418a7e81e415-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260410T090000Z
+DTEND:20260410T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270115T100000Z
+DTEND:20270115T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270122T100000Z
+DTEND:20270122T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270129T100000Z
+DTEND:20270129T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270205T100000Z
+DTEND:20270205T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270212T100000Z
+DTEND:20270212T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270219T100000Z
+DTEND:20270219T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270305T100000Z
+DTEND:20270305T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270312T100000Z
+DTEND:20270312T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270319T100000Z
+DTEND:20270319T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270326T100000Z
+DTEND:20270326T110000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270402T090000Z
+DTEND:20270402T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe4c195-3e04-4f05-806f-7426013e5334-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270409T090000Z
+DTEND:20270409T100000Z
+SUMMARY:Lecture: EEN1091 C/C++ Programming for Engineers
+DESCRIPTION:Lecture with McArdle C in GLA.Q121\n\nModule: EEN1091 C/C++ Programming for Engineers\nStaff: McArdle C\nLocation: GLA.Q121\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.Q121
+END:VEVENT
+END:VCALENDAR

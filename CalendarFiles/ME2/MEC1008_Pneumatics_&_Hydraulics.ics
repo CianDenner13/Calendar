@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - MEC1008 Pneumatics & Hydraulics//EN
+X-WR-CALNAME:MEC1008 Pneumatics & Hydraulics
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T140000Z
+DTEND:20260114T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T140000Z
+DTEND:20260121T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T140000Z
+DTEND:20260128T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T140000Z
+DTEND:20260204T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T140000Z
+DTEND:20260211T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T140000Z
+DTEND:20260218T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T140000Z
+DTEND:20260304T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T140000Z
+DTEND:20260311T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T140000Z
+DTEND:20260318T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T140000Z
+DTEND:20260325T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T130000Z
+DTEND:20260401T150000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc75592-2caa-4d86-a4ab-3c6803f4160e-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T130000Z
+DTEND:20260408T150000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270113T140000Z
+DTEND:20270113T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270120T140000Z
+DTEND:20270120T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270127T140000Z
+DTEND:20270127T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270203T140000Z
+DTEND:20270203T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270210T140000Z
+DTEND:20270210T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270217T140000Z
+DTEND:20270217T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270303T140000Z
+DTEND:20270303T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270310T140000Z
+DTEND:20270310T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270317T140000Z
+DTEND:20270317T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270324T140000Z
+DTEND:20270324T160000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270331T130000Z
+DTEND:20270331T150000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:347f0b7f-215b-40f9-82c4-4d15adc1fa6b-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270407T130000Z
+DTEND:20270407T150000Z
+SUMMARY:Lecture: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lecture with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260130T140000Z
+DTEND:20260130T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260206T140000Z
+DTEND:20260206T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260213T140000Z
+DTEND:20260213T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260220T140000Z
+DTEND:20260220T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260306T140000Z
+DTEND:20260306T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260313T140000Z
+DTEND:20260313T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260320T140000Z
+DTEND:20260320T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:972ad9cf-db0b-444a-9c7c-a1dbc3a70a73-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260327T140000Z
+DTEND:20260327T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB11\, GLA.SB29 & SB29-A\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB11\, GLA.SB29 & SB29-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB29 & SB29-A
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270129T140000Z
+DTEND:20270129T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270205T140000Z
+DTEND:20270205T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270212T140000Z
+DTEND:20270212T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270219T140000Z
+DTEND:20270219T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270305T140000Z
+DTEND:20270305T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270312T140000Z
+DTEND:20270312T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270319T140000Z
+DTEND:20270319T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0fad54-22b0-45a3-a17d-37b31af0c04c-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270326T140000Z
+DTEND:20270326T160000Z
+SUMMARY:Lab: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Lab with Young P in GLA.SB29 & SB29-A\, GLA.SB11\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.SB29 & SB29-A\, GLA.SB11\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB29 & SB29-A\, GLA.SB11
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T160000Z
+DTEND:20260114T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T160000Z
+DTEND:20260121T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T160000Z
+DTEND:20260128T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T160000Z
+DTEND:20260204T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T160000Z
+DTEND:20260211T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T160000Z
+DTEND:20260218T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T160000Z
+DTEND:20260304T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T160000Z
+DTEND:20260311T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T160000Z
+DTEND:20260318T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T160000Z
+DTEND:20260325T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T150000Z
+DTEND:20260401T160000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:3678cf52-b75f-4ecf-a9f8-f26fd17b8bfe-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T150000Z
+DTEND:20260408T160000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270113T160000Z
+DTEND:20270113T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270120T160000Z
+DTEND:20270120T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270127T160000Z
+DTEND:20270127T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270203T160000Z
+DTEND:20270203T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270210T160000Z
+DTEND:20270210T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270217T160000Z
+DTEND:20270217T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270303T160000Z
+DTEND:20270303T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270310T160000Z
+DTEND:20270310T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270317T160000Z
+DTEND:20270317T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270324T160000Z
+DTEND:20270324T170000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270331T150000Z
+DTEND:20270331T160000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:57ae2b56-6601-46c8-924a-220fcac9479a-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270407T150000Z
+DTEND:20270407T160000Z
+SUMMARY:Tutorial: MEC1008 Pneumatics & Hydraulics
+DESCRIPTION:Tutorial with Young P in GLA.HG20\n\nModule: MEC1008 Pneumatics & Hydraulics\nStaff: Young P\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+END:VCALENDAR

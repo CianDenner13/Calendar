@@ -1,0 +1,510 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - EEN1017 Embedded Systems//EN
+X-WR-CALNAME:EEN1017 Embedded Systems
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260113T110000Z
+DTEND:20260113T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260120T110000Z
+DTEND:20260120T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260127T110000Z
+DTEND:20260127T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260203T110000Z
+DTEND:20260203T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260210T110000Z
+DTEND:20260210T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260217T110000Z
+DTEND:20260217T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260303T110000Z
+DTEND:20260303T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260310T110000Z
+DTEND:20260310T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260324T110000Z
+DTEND:20260324T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260331T100000Z
+DTEND:20260331T120000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:59b94f17-cb6b-47a8-9182-74f22b558a06-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260407T100000Z
+DTEND:20260407T120000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270112T110000Z
+DTEND:20270112T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270119T110000Z
+DTEND:20270119T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270126T110000Z
+DTEND:20270126T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270202T110000Z
+DTEND:20270202T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270209T110000Z
+DTEND:20270209T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270216T110000Z
+DTEND:20270216T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270302T110000Z
+DTEND:20270302T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270309T110000Z
+DTEND:20270309T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270316T110000Z
+DTEND:20270316T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270323T110000Z
+DTEND:20270323T130000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270330T100000Z
+DTEND:20270330T120000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:33a2d236-cad3-4a29-92c0-35be4a0cd837-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270406T100000Z
+DTEND:20270406T120000Z
+SUMMARY:Lecture: EEN1017 Embedded Systems
+DESCRIPTION:Lecture with Sadleir R in GLA.XG22\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.XG22\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG22
+END:VEVENT
+BEGIN:VEVENT
+UID:d9496685-895c-4c60-a8e0-80628c9d4fe7-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260129T110000Z
+DTEND:20260129T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:d9496685-895c-4c60-a8e0-80628c9d4fe7-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260212T110000Z
+DTEND:20260212T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:d9496685-895c-4c60-a8e0-80628c9d4fe7-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260305T110000Z
+DTEND:20260305T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:d9496685-895c-4c60-a8e0-80628c9d4fe7-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260319T110000Z
+DTEND:20260319T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:d9496685-895c-4c60-a8e0-80628c9d4fe7-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260402T100000Z
+DTEND:20260402T120000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd4814-b4b5-456f-b86b-7b42f1bad876-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270128T110000Z
+DTEND:20270128T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S143\, GLA.S144\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S143\, GLA.S144\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S143\, GLA.S144
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd4814-b4b5-456f-b86b-7b42f1bad876-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270211T110000Z
+DTEND:20270211T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S143\, GLA.S144\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S143\, GLA.S144\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S143\, GLA.S144
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd4814-b4b5-456f-b86b-7b42f1bad876-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270304T110000Z
+DTEND:20270304T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S143\, GLA.S144\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S143\, GLA.S144\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S143\, GLA.S144
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd4814-b4b5-456f-b86b-7b42f1bad876-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270318T110000Z
+DTEND:20270318T130000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S143\, GLA.S144\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S143\, GLA.S144\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S143\, GLA.S144
+END:VEVENT
+BEGIN:VEVENT
+UID:23dd4814-b4b5-456f-b86b-7b42f1bad876-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270401T100000Z
+DTEND:20270401T120000Z
+SUMMARY:Lab: EEN1017 Embedded Systems
+DESCRIPTION:Lab with Sadleir R in GLA.S143\, GLA.S144\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S143\, GLA.S144\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S143\, GLA.S144
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260113T170000Z
+DTEND:20260113T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260120T170000Z
+DTEND:20260120T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260127T170000Z
+DTEND:20260127T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260203T170000Z
+DTEND:20260203T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260210T170000Z
+DTEND:20260210T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260217T170000Z
+DTEND:20260217T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260303T170000Z
+DTEND:20260303T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260310T170000Z
+DTEND:20260310T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260324T170000Z
+DTEND:20260324T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260331T160000Z
+DTEND:20260331T170000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:9d86e6d2-4958-44c0-be6f-e61f0f38d211-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260407T160000Z
+DTEND:20260407T170000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270112T170000Z
+DTEND:20270112T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270119T170000Z
+DTEND:20270119T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270126T170000Z
+DTEND:20270126T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270202T170000Z
+DTEND:20270202T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270209T170000Z
+DTEND:20270209T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270216T170000Z
+DTEND:20270216T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270302T170000Z
+DTEND:20270302T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270309T170000Z
+DTEND:20270309T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270316T170000Z
+DTEND:20270316T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270323T170000Z
+DTEND:20270323T180000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270330T160000Z
+DTEND:20270330T170000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+BEGIN:VEVENT
+UID:30b06b0c-481e-42ff-b1a7-c0bd1f613c26-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270406T160000Z
+DTEND:20270406T170000Z
+SUMMARY:Tutorial: EEN1017 Embedded Systems
+DESCRIPTION:Tutorial with Sadleir R in GLA.S144\, GLA.S143\n\nModule: EEN1017 Embedded Systems\nStaff: Sadleir R\nLocation: GLA.S144\, GLA.S143\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.S144\, GLA.S143
+END:VEVENT
+END:VCALENDAR

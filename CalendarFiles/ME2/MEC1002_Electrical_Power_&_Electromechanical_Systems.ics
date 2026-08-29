@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - MEC1002 Electrical Power & Electromechanical Systems//EN
+X-WR-CALNAME:MEC1002 Electrical Power & Electromechanical Systems
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260113T160000Z
+DTEND:20260113T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260120T160000Z
+DTEND:20260120T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260127T160000Z
+DTEND:20260127T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260203T160000Z
+DTEND:20260203T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260210T160000Z
+DTEND:20260210T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260217T160000Z
+DTEND:20260217T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260303T160000Z
+DTEND:20260303T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260310T160000Z
+DTEND:20260310T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260317T160000Z
+DTEND:20260317T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260324T160000Z
+DTEND:20260324T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260331T150000Z
+DTEND:20260331T160000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bba1b14a-133d-46fd-b88a-ba70bfff0928-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260407T150000Z
+DTEND:20260407T160000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270112T160000Z
+DTEND:20270112T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270119T160000Z
+DTEND:20270119T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270126T160000Z
+DTEND:20270126T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270202T160000Z
+DTEND:20270202T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270209T160000Z
+DTEND:20270209T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270216T160000Z
+DTEND:20270216T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270302T160000Z
+DTEND:20270302T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270309T160000Z
+DTEND:20270309T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270316T160000Z
+DTEND:20270316T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270323T160000Z
+DTEND:20270323T170000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270330T150000Z
+DTEND:20270330T160000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a7a927-6bab-4d84-81d6-f4826ef165dd-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270406T150000Z
+DTEND:20270406T160000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260112T100000Z
+DTEND:20260112T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260119T100000Z
+DTEND:20260119T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260126T100000Z
+DTEND:20260126T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260202T100000Z
+DTEND:20260202T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260209T100000Z
+DTEND:20260209T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260216T100000Z
+DTEND:20260216T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260302T100000Z
+DTEND:20260302T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260309T100000Z
+DTEND:20260309T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260316T100000Z
+DTEND:20260316T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260323T100000Z
+DTEND:20260323T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260330T090000Z
+DTEND:20260330T100000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:6c79a2b8-fa49-4609-b504-a484bac49e99-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260406T090000Z
+DTEND:20260406T100000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270111T100000Z
+DTEND:20270111T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270118T100000Z
+DTEND:20270118T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270125T100000Z
+DTEND:20270125T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270201T100000Z
+DTEND:20270201T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270208T100000Z
+DTEND:20270208T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270215T100000Z
+DTEND:20270215T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270301T100000Z
+DTEND:20270301T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270308T100000Z
+DTEND:20270308T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270315T100000Z
+DTEND:20270315T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270322T100000Z
+DTEND:20270322T110000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270329T090000Z
+DTEND:20270329T100000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:c50d6537-6721-4835-a334-f64ed0bc449b-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270405T090000Z
+DTEND:20270405T100000Z
+SUMMARY:Lecture: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Lecture with Kent N. in GLA.CG12\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.CG12\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.CG12
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260116T120000Z
+DTEND:20260116T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260123T120000Z
+DTEND:20260123T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260306T120000Z
+DTEND:20260306T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260313T120000Z
+DTEND:20260313T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260320T120000Z
+DTEND:20260320T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260327T120000Z
+DTEND:20260327T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260403T110000Z
+DTEND:20260403T120000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:2af764d3-9d95-4ec7-b239-1206a036193f-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260410T110000Z
+DTEND:20260410T120000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270112T150000Z
+DTEND:20270112T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270119T150000Z
+DTEND:20270119T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270302T150000Z
+DTEND:20270302T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270309T150000Z
+DTEND:20270309T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270316T150000Z
+DTEND:20270316T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270323T150000Z
+DTEND:20270323T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270330T140000Z
+DTEND:20270330T150000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:657db554-6df6-4b48-aeb1-ff6249391513-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270406T140000Z
+DTEND:20270406T150000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.HG23\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:174a304e-4f4a-4dfc-a920-e805f135ca0c-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260130T120000Z
+DTEND:20260130T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:174a304e-4f4a-4dfc-a920-e805f135ca0c-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260206T120000Z
+DTEND:20260206T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:174a304e-4f4a-4dfc-a920-e805f135ca0c-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260213T120000Z
+DTEND:20260213T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:174a304e-4f4a-4dfc-a920-e805f135ca0c-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260220T120000Z
+DTEND:20260220T130000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.QG27\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:611706c4-9a22-412e-a5e3-7c127357930f-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270126T150000Z
+DTEND:20270126T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.XG21\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.XG21\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG21
+END:VEVENT
+BEGIN:VEVENT
+UID:611706c4-9a22-412e-a5e3-7c127357930f-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270202T150000Z
+DTEND:20270202T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.XG21\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.XG21\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG21
+END:VEVENT
+BEGIN:VEVENT
+UID:611706c4-9a22-412e-a5e3-7c127357930f-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270209T150000Z
+DTEND:20270209T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.XG21\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.XG21\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG21
+END:VEVENT
+BEGIN:VEVENT
+UID:611706c4-9a22-412e-a5e3-7c127357930f-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270216T150000Z
+DTEND:20270216T160000Z
+SUMMARY:Tutorial: MEC1002 Electrical Power & Electromechanical Systems
+DESCRIPTION:Tutorial with Kent N. in GLA.XG21\n\nModule: MEC1002 Electrical Power & Electromechanical Systems\nStaff: Kent N.\nLocation: GLA.XG21\nLocation UserText5: Glasnevin Campus\, Lonsdale Building
+LOCATION:GLA.XG21
+END:VEVENT
+END:VCALENDAR

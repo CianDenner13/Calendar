@@ -1,0 +1,870 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - MEC1000 Engineering Mechanics: Dynamics//EN
+X-WR-CALNAME:MEC1000 Engineering Mechanics: Dynamics
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260112T110000Z
+DTEND:20260112T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260119T110000Z
+DTEND:20260119T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260126T110000Z
+DTEND:20260126T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260202T110000Z
+DTEND:20260202T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260209T110000Z
+DTEND:20260209T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260216T110000Z
+DTEND:20260216T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260302T110000Z
+DTEND:20260302T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260309T110000Z
+DTEND:20260309T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260316T110000Z
+DTEND:20260316T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260323T110000Z
+DTEND:20260323T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260330T100000Z
+DTEND:20260330T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0b7d1e-df8a-4f7f-87d9-29ea021646c8-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260406T100000Z
+DTEND:20260406T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270111T130000Z
+DTEND:20270111T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270118T130000Z
+DTEND:20270118T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270125T130000Z
+DTEND:20270125T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270201T130000Z
+DTEND:20270201T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270208T130000Z
+DTEND:20270208T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270215T130000Z
+DTEND:20270215T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270301T130000Z
+DTEND:20270301T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270308T130000Z
+DTEND:20270308T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270315T130000Z
+DTEND:20270315T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270322T130000Z
+DTEND:20270322T140000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270329T120000Z
+DTEND:20270329T130000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:150027aa-d0f2-4e46-ac8b-c1472a3188d1-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270405T120000Z
+DTEND:20270405T130000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.HG23\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T110000Z
+DTEND:20260114T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T110000Z
+DTEND:20260121T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T110000Z
+DTEND:20260128T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T110000Z
+DTEND:20260204T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T110000Z
+DTEND:20260211T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T110000Z
+DTEND:20260218T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T110000Z
+DTEND:20260304T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T110000Z
+DTEND:20260311T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T110000Z
+DTEND:20260318T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T110000Z
+DTEND:20260325T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T100000Z
+DTEND:20260401T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:517e0ada-9e02-4524-8816-3626226b9ce7-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T100000Z
+DTEND:20260408T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Saleem M. in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270113T110000Z
+DTEND:20270113T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270120T110000Z
+DTEND:20270120T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270127T110000Z
+DTEND:20270127T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270203T110000Z
+DTEND:20270203T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270210T110000Z
+DTEND:20270210T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270217T110000Z
+DTEND:20270217T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270303T110000Z
+DTEND:20270303T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270310T110000Z
+DTEND:20270310T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270317T110000Z
+DTEND:20270317T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270324T110000Z
+DTEND:20270324T120000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270331T100000Z
+DTEND:20270331T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca42cda-7867-42bf-9e1a-5aa1bfbe5bcd-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270407T100000Z
+DTEND:20270407T110000Z
+SUMMARY:Lecture: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lecture with Aghamolaei R in GLA.QG13\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260112T150000Z
+DTEND:20260112T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260119T150000Z
+DTEND:20260119T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260126T150000Z
+DTEND:20260126T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260202T150000Z
+DTEND:20260202T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260209T150000Z
+DTEND:20260209T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260216T150000Z
+DTEND:20260216T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260302T150000Z
+DTEND:20260302T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260309T150000Z
+DTEND:20260309T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260316T150000Z
+DTEND:20260316T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260323T150000Z
+DTEND:20260323T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260330T140000Z
+DTEND:20260330T160000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:3f732215-29c5-48be-ae65-42a4f5d0c976-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260406T140000Z
+DTEND:20260406T160000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Saleem M. in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270111T150000Z
+DTEND:20270111T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270118T150000Z
+DTEND:20270118T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270125T150000Z
+DTEND:20270125T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270201T150000Z
+DTEND:20270201T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270208T150000Z
+DTEND:20270208T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270215T150000Z
+DTEND:20270215T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270301T150000Z
+DTEND:20270301T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270308T150000Z
+DTEND:20270308T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270315T150000Z
+DTEND:20270315T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270322T150000Z
+DTEND:20270322T170000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270329T140000Z
+DTEND:20270329T160000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:d62bec61-1ccd-4167-8901-8469e045ac0a-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270405T140000Z
+DTEND:20270405T160000Z
+SUMMARY:Lab - see note: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Lab - see note with Aghamolaei R in GLA.SG22\, GLA.SB14\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.SG22\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG22\, GLA.SB14
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260114T120000Z
+DTEND:20260114T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260121T120000Z
+DTEND:20260121T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260128T120000Z
+DTEND:20260128T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260204T120000Z
+DTEND:20260204T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260211T120000Z
+DTEND:20260211T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260218T120000Z
+DTEND:20260218T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260304T120000Z
+DTEND:20260304T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260311T120000Z
+DTEND:20260311T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260318T120000Z
+DTEND:20260318T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260325T120000Z
+DTEND:20260325T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260401T110000Z
+DTEND:20260401T120000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd23a97-d169-458d-b73b-bfae9109f52a-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260408T110000Z
+DTEND:20260408T120000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Saleem M. in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Saleem M.\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270113T120000Z
+DTEND:20270113T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270120T120000Z
+DTEND:20270120T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270127T120000Z
+DTEND:20270127T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270203T120000Z
+DTEND:20270203T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270210T120000Z
+DTEND:20270210T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270217T120000Z
+DTEND:20270217T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270303T120000Z
+DTEND:20270303T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270310T120000Z
+DTEND:20270310T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270317T120000Z
+DTEND:20270317T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270324T120000Z
+DTEND:20270324T130000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270331T110000Z
+DTEND:20270331T120000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+BEGIN:VEVENT
+UID:82b40882-1741-4214-a1d7-3450f49afc9b-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20270407T110000Z
+DTEND:20270407T120000Z
+SUMMARY:Tutorial: MEC1000 Engineering Mechanics: Dynamics
+DESCRIPTION:Tutorial with Aghamolaei R in GLA.C104\n\nModule: MEC1000 Engineering Mechanics: Dynamics\nStaff: Aghamolaei R\nLocation: GLA.C104\nLocation UserText5: Glasnevin Campus\, Henry Grattan Building
+LOCATION:GLA.C104
+END:VEVENT
+END:VCALENDAR

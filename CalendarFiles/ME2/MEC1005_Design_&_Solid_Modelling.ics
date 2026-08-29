@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - MEC1005 Design & Solid Modelling//EN
+X-WR-CALNAME:MEC1005 Design & Solid Modelling
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250911T150000Z
+DTEND:20250911T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250918T150000Z
+DTEND:20250918T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250925T150000Z
+DTEND:20250925T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251002T150000Z
+DTEND:20251002T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251009T150000Z
+DTEND:20251009T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251016T150000Z
+DTEND:20251016T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251023T150000Z
+DTEND:20251023T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251030T160000Z
+DTEND:20251030T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251106T160000Z
+DTEND:20251106T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251113T160000Z
+DTEND:20251113T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251120T160000Z
+DTEND:20251120T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b35d85d2-d573-4610-811d-053b885ff181-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251127T160000Z
+DTEND:20251127T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Kent N.\, Saffari M. in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\, Saffari M.\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260910T150000Z
+DTEND:20260910T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260917T150000Z
+DTEND:20260917T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260924T150000Z
+DTEND:20260924T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261001T150000Z
+DTEND:20261001T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261008T150000Z
+DTEND:20261008T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261015T150000Z
+DTEND:20261015T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261022T150000Z
+DTEND:20261022T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261029T160000Z
+DTEND:20261029T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261119T160000Z
+DTEND:20261119T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261126T160000Z
+DTEND:20261126T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Carthy E\, Saffari M.\, Young P in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\, Young P\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250909T130000Z
+DTEND:20250909T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250916T130000Z
+DTEND:20250916T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250923T130000Z
+DTEND:20250923T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250930T130000Z
+DTEND:20250930T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251007T130000Z
+DTEND:20251007T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251014T130000Z
+DTEND:20251014T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251021T130000Z
+DTEND:20251021T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251028T140000Z
+DTEND:20251028T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251104T140000Z
+DTEND:20251104T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251111T140000Z
+DTEND:20251111T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251118T140000Z
+DTEND:20251118T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7d1c87-3ab0-4d7b-9906-53c8bf13f4d3-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251125T140000Z
+DTEND:20251125T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Kent N. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Kent N.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260908T130000Z
+DTEND:20260908T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260922T130000Z
+DTEND:20260922T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260929T130000Z
+DTEND:20260929T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261006T130000Z
+DTEND:20261006T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261013T130000Z
+DTEND:20261013T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261020T130000Z
+DTEND:20261020T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261027T140000Z
+DTEND:20261027T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261103T140000Z
+DTEND:20261103T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261110T140000Z
+DTEND:20261110T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261117T140000Z
+DTEND:20261117T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f0b2d4-af27-4299-8212-74c76c620dfd-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261124T140000Z
+DTEND:20261124T160000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:2a61e59e-8748-47f6-838d-17ac6e4cde8a-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260915T130000Z
+DTEND:20260915T150000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Saffari M. in GLA.SB11\, GLA.SB12 & SB12-A\, GLA.SB14\, GLA.SB32\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Saffari M.\nLocation: GLA.SB11\, GLA.SB12 & SB12-A\, GLA.SB14\, GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB11\, GLA.SB12 & SB12-A\, GLA.SB14\, GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250909T080000Z
+DTEND:20250909T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250916T080000Z
+DTEND:20250916T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250923T080000Z
+DTEND:20250923T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250930T080000Z
+DTEND:20250930T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251007T080000Z
+DTEND:20251007T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251014T080000Z
+DTEND:20251014T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251021T080000Z
+DTEND:20251021T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251028T090000Z
+DTEND:20251028T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251104T090000Z
+DTEND:20251104T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251111T090000Z
+DTEND:20251111T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251118T090000Z
+DTEND:20251118T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b4eaba-2e7a-416b-a5ae-0dd27bfc5893-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251125T090000Z
+DTEND:20251125T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260908T080000Z
+DTEND:20260908T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260922T080000Z
+DTEND:20260922T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260929T080000Z
+DTEND:20260929T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261006T080000Z
+DTEND:20261006T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261013T080000Z
+DTEND:20261013T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261020T080000Z
+DTEND:20261020T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261027T090000Z
+DTEND:20261027T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261103T090000Z
+DTEND:20261103T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261110T090000Z
+DTEND:20261110T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261117T090000Z
+DTEND:20261117T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261124T090000Z
+DTEND:20261124T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E\, Young P in GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\, Young P\nLocation: GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB12 & SB12-A\, GLA.SB32\, GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+END:VCALENDAR

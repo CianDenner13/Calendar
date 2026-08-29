@@ -1,0 +1,861 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - EEG1009 Engineering Mathematics III//EN
+X-WR-CALNAME:EEG1009 Engineering Mathematics III
+DTSTAMP:20260821T011010Z
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250908T100000Z
+DTEND:20250908T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250915T100000Z
+DTEND:20250915T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250922T100000Z
+DTEND:20250922T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250929T100000Z
+DTEND:20250929T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251006T100000Z
+DTEND:20251006T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251013T100000Z
+DTEND:20251013T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251020T100000Z
+DTEND:20251020T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251027T110000Z
+DTEND:20251027T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251103T110000Z
+DTEND:20251103T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251110T110000Z
+DTEND:20251110T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251117T110000Z
+DTEND:20251117T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:32cff9b1-eadd-4cbb-9ccd-06c67080ccb8-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251124T110000Z
+DTEND:20251124T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260907T100000Z
+DTEND:20260907T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260914T100000Z
+DTEND:20260914T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260921T100000Z
+DTEND:20260921T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260928T100000Z
+DTEND:20260928T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261005T100000Z
+DTEND:20261005T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261012T100000Z
+DTEND:20261012T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261019T100000Z
+DTEND:20261019T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261026T110000Z
+DTEND:20261026T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261102T110000Z
+DTEND:20261102T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261109T110000Z
+DTEND:20261109T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261116T110000Z
+DTEND:20261116T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261123T110000Z
+DTEND:20261123T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250910T130000Z
+DTEND:20250910T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250917T130000Z
+DTEND:20250917T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250924T130000Z
+DTEND:20250924T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251001T130000Z
+DTEND:20251001T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251008T130000Z
+DTEND:20251008T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251015T130000Z
+DTEND:20251015T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251022T130000Z
+DTEND:20251022T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251029T140000Z
+DTEND:20251029T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251105T140000Z
+DTEND:20251105T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251112T140000Z
+DTEND:20251112T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251119T140000Z
+DTEND:20251119T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:ee689c9f-3aad-4eaa-bdb1-8503686b4729-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251126T140000Z
+DTEND:20251126T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260909T130000Z
+DTEND:20260909T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260916T130000Z
+DTEND:20260916T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260923T130000Z
+DTEND:20260923T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260930T130000Z
+DTEND:20260930T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261007T130000Z
+DTEND:20261007T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261014T130000Z
+DTEND:20261014T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261021T130000Z
+DTEND:20261021T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261028T140000Z
+DTEND:20261028T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261104T140000Z
+DTEND:20261104T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261111T140000Z
+DTEND:20261111T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261118T140000Z
+DTEND:20261118T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261125T140000Z
+DTEND:20261125T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA101\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250910T140000Z
+DTEND:20250910T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250917T140000Z
+DTEND:20250917T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250924T140000Z
+DTEND:20250924T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251001T140000Z
+DTEND:20251001T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251008T140000Z
+DTEND:20251008T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251015T140000Z
+DTEND:20251015T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251022T140000Z
+DTEND:20251022T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251029T150000Z
+DTEND:20251029T160000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251105T150000Z
+DTEND:20251105T160000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251112T150000Z
+DTEND:20251112T160000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251119T150000Z
+DTEND:20251119T160000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5052e96e-ca53-46a0-83f7-2e19bd7c2565-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251126T150000Z
+DTEND:20251126T160000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250915T160000Z
+DTEND:20250915T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250922T160000Z
+DTEND:20250922T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20250929T160000Z
+DTEND:20250929T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251006T160000Z
+DTEND:20251006T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251013T160000Z
+DTEND:20251013T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251020T160000Z
+DTEND:20251020T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251027T170000Z
+DTEND:20251027T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251103T170000Z
+DTEND:20251103T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251110T170000Z
+DTEND:20251110T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251117T170000Z
+DTEND:20251117T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:7f31606c-00e4-4b0b-b844-337d707ebe31-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20251124T170000Z
+DTEND:20251124T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260909T140000Z
+DTEND:20260909T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260916T140000Z
+DTEND:20260916T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260923T140000Z
+DTEND:20260923T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260930T140000Z
+DTEND:20260930T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261007T140000Z
+DTEND:20261007T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261014T140000Z
+DTEND:20261014T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261021T140000Z
+DTEND:20261021T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261028T150000Z
+DTEND:20261028T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261104T150000Z
+DTEND:20261104T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261111T150000Z
+DTEND:20261111T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261118T150000Z
+DTEND:20261118T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261125T150000Z
+DTEND:20261125T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-0@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260907T160000Z
+DTEND:20260907T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-1@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260914T160000Z
+DTEND:20260914T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-2@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260921T160000Z
+DTEND:20260921T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-3@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20260928T160000Z
+DTEND:20260928T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-4@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261005T160000Z
+DTEND:20261005T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-5@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261012T160000Z
+DTEND:20261012T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-6@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261019T160000Z
+DTEND:20261019T170000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-7@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261026T170000Z
+DTEND:20261026T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-8@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261102T170000Z
+DTEND:20261102T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-9@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261109T170000Z
+DTEND:20261109T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-10@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+BEGIN:VEVENT
+UID:9f256c41-1fd7-4115-b7a7-abfcf211624c-11@dcu-timetable
+DTSTAMP:20260821T011010Z
+DTSTART:20261123T170000Z
+DTEND:20261123T180000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.HG20\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.HG20\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20
+END:VEVENT
+END:VCALENDAR
