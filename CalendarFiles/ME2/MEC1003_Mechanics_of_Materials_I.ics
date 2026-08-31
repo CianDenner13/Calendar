@@ -2,698 +2,3488 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//DCU Timetable - MEC1003 Mechanics of Materials I//EN
 X-WR-CALNAME:MEC1003 Mechanics of Materials I
-DTSTAMP:20260821T011010Z
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-0@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250919T140000Z
-DTEND:20250919T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-1@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250926T140000Z
-DTEND:20250926T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-2@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251003T140000Z
-DTEND:20251003T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-3@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251010T140000Z
-DTEND:20251010T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-4@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251017T140000Z
-DTEND:20251017T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-5@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251024T140000Z
-DTEND:20251024T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-6@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251031T150000Z
-DTEND:20251031T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-7@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251107T150000Z
-DTEND:20251107T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
-BEGIN:VEVENT
-UID:844d5fed-c61a-4b77-a979-19452bc974e9-8@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251114T150000Z
-DTEND:20251114T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB12 & SB12-A\, GLA.SB14\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB12 & SB12-A\, GLA.SB14\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SB12 & SB12-A\, GLA.SB14
-END:VEVENT
+DTSTAMP:20260831T145130Z
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-0@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260918T140000Z
 DTEND:20260918T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-1@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260925T140000Z
 DTEND:20260925T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-2@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261002T140000Z
 DTEND:20261002T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-3@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261009T140000Z
 DTEND:20261009T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-4@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261016T140000Z
 DTEND:20261016T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-5@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261023T140000Z
 DTEND:20261023T160000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-6@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261030T150000Z
 DTEND:20261030T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-7@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261106T150000Z
 DTEND:20261106T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:de83c1d1-273d-493e-ac99-40c3023b6561-8@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261113T150000Z
 DTEND:20261113T170000Z
-SUMMARY:Practical: MEC1003 Mechanics of Materials I
-DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-0@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250917T080000Z
-DTEND:20250917T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260925T140000Z
+DTEND:20260925T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-1@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250924T080000Z
-DTEND:20250924T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-2@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251001T080000Z
-DTEND:20251001T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T140000Z
+DTEND:20261009T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-3@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251008T080000Z
-DTEND:20251008T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T140000Z
+DTEND:20261016T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-4@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251015T080000Z
-DTEND:20251015T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-5@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251022T080000Z
-DTEND:20251022T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-6@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251029T090000Z
-DTEND:20251029T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-7@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251105T090000Z
-DTEND:20251105T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
-UID:7e0e2c9b-74eb-402e-a4ac-27d15bc4334d-8@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251112T090000Z
-DTEND:20251112T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
-LOCATION:GLA.HG23
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T140000Z
+DTEND:20261009T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T140000Z
+DTEND:20261016T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T140000Z
+DTEND:20261009T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T140000Z
+DTEND:20261016T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T140000Z
+DTEND:20261016T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T150000Z
+DTEND:20261218T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T150000Z
+DTEND:20261218T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T150000Z
+DTEND:20261225T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T150000Z
+DTEND:20261218T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T150000Z
+DTEND:20261225T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T150000Z
+DTEND:20270101T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T150000Z
+DTEND:20261120T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T150000Z
+DTEND:20261204T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T150000Z
+DTEND:20261211T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T150000Z
+DTEND:20261218T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T150000Z
+DTEND:20261225T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T150000Z
+DTEND:20270101T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T150000Z
+DTEND:20270108T170000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-0@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260916T080000Z
 DTEND:20260916T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-1@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260923T080000Z
 DTEND:20260923T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-2@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260930T080000Z
 DTEND:20260930T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-3@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261007T080000Z
 DTEND:20261007T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-4@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261014T080000Z
 DTEND:20261014T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-5@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261021T080000Z
 DTEND:20261021T090000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-6@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261028T090000Z
 DTEND:20261028T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-7@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261104T090000Z
 DTEND:20261104T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-8@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261111T090000Z
 DTEND:20261111T100000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-0@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250918T100000Z
-DTEND:20250918T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260923T080000Z
+DTEND:20260923T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-1@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250925T100000Z
-DTEND:20250925T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260930T080000Z
+DTEND:20260930T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-2@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251002T100000Z
-DTEND:20251002T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261007T080000Z
+DTEND:20261007T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-3@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251009T100000Z
-DTEND:20251009T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261014T080000Z
+DTEND:20261014T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-4@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251016T100000Z
-DTEND:20251016T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-5@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251023T100000Z
-DTEND:20251023T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-6@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251030T110000Z
-DTEND:20251030T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-7@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251106T110000Z
-DTEND:20251106T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:34e09c10-7f1d-47a7-b314-aaa6a96c2b52-8@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251113T110000Z
-DTEND:20251113T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260930T080000Z
+DTEND:20260930T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261007T080000Z
+DTEND:20261007T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261014T080000Z
+DTEND:20261014T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261007T080000Z
+DTEND:20261007T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261014T080000Z
+DTEND:20261014T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261014T080000Z
+DTEND:20261014T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261209T090000Z
+DTEND:20261209T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261209T090000Z
+DTEND:20261209T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261216T090000Z
+DTEND:20261216T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261209T090000Z
+DTEND:20261209T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261216T090000Z
+DTEND:20261216T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261223T090000Z
+DTEND:20261223T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261209T090000Z
+DTEND:20261209T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261216T090000Z
+DTEND:20261216T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261223T090000Z
+DTEND:20261223T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261230T090000Z
+DTEND:20261230T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261118T090000Z
+DTEND:20261118T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261125T090000Z
+DTEND:20261125T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261202T090000Z
+DTEND:20261202T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261209T090000Z
+DTEND:20261209T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261216T090000Z
+DTEND:20261216T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261223T090000Z
+DTEND:20261223T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261230T090000Z
+DTEND:20261230T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270106T090000Z
+DTEND:20270106T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-0@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260917T100000Z
 DTEND:20260917T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-1@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260924T100000Z
 DTEND:20260924T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-2@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261001T100000Z
 DTEND:20261001T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-3@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261008T100000Z
 DTEND:20261008T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-4@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261015T100000Z
 DTEND:20261015T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-5@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261022T100000Z
 DTEND:20261022T110000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-6@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261029T110000Z
 DTEND:20261029T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-7@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261105T110000Z
 DTEND:20261105T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:9576902a-5799-4cad-9dea-ef3de13128e8-8@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261112T110000Z
 DTEND:20261112T120000Z
-SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
-DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
 LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-0@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250912T080000Z
-DTEND:20250912T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260924T100000Z
+DTEND:20260924T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-1@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250919T080000Z
-DTEND:20250919T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261001T100000Z
+DTEND:20261001T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-2@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20250926T080000Z
-DTEND:20250926T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261008T100000Z
+DTEND:20261008T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-3@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251003T080000Z
-DTEND:20251003T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-4@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251010T080000Z
-DTEND:20251010T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-5@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251017T080000Z
-DTEND:20251017T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-6@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251024T080000Z
-DTEND:20251024T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-7@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251031T090000Z
-DTEND:20251031T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-8@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251107T090000Z
-DTEND:20251107T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-9@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251114T090000Z
-DTEND:20251114T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261001T100000Z
+DTEND:20261001T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
-UID:09c985e5-7c57-42ba-912e-892045dd3ab0-10@dcu-timetable
-DTSTAMP:20260821T011010Z
-DTSTART:20251128T090000Z
-DTEND:20251128T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
-LOCATION:
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261008T100000Z
+DTEND:20261008T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261008T100000Z
+DTEND:20261008T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261210T110000Z
+DTEND:20261210T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261210T110000Z
+DTEND:20261210T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261217T110000Z
+DTEND:20261217T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261210T110000Z
+DTEND:20261210T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261217T110000Z
+DTEND:20261217T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261224T110000Z
+DTEND:20261224T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261210T110000Z
+DTEND:20261210T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261217T110000Z
+DTEND:20261217T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261224T110000Z
+DTEND:20261224T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261231T110000Z
+DTEND:20261231T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261126T110000Z
+DTEND:20261126T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261203T110000Z
+DTEND:20261203T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261210T110000Z
+DTEND:20261210T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261217T110000Z
+DTEND:20261217T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261224T110000Z
+DTEND:20261224T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261231T110000Z
+DTEND:20261231T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270107T110000Z
+DTEND:20270107T120000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-0@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260911T080000Z
 DTEND:20260911T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-1@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260918T080000Z
 DTEND:20260918T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-2@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20260925T080000Z
 DTEND:20260925T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-3@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261002T080000Z
 DTEND:20261002T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-4@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261009T080000Z
 DTEND:20261009T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-5@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261016T080000Z
 DTEND:20261016T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-6@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261023T080000Z
 DTEND:20261023T100000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-7@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261030T090000Z
 DTEND:20261030T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-8@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261106T090000Z
 DTEND:20261106T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-9@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261113T090000Z
 DTEND:20261113T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-10@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261120T090000Z
 DTEND:20261120T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-11@dcu-timetable
-DTSTAMP:20260821T011010Z
+DTSTAMP:20260831T145130Z
 DTSTART:20261127T090000Z
 DTEND:20261127T110000Z
-SUMMARY:Lecture: MEC1003 Mechanics of Materials I
-DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260918T080000Z
+DTEND:20260918T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260925T080000Z
+DTEND:20260925T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261002T080000Z
+DTEND:20261002T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T080000Z
+DTEND:20261009T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20260925T080000Z
+DTEND:20260925T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261002T080000Z
+DTEND:20261002T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T080000Z
+DTEND:20261009T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261002T080000Z
+DTEND:20261002T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T080000Z
+DTEND:20261009T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261009T080000Z
+DTEND:20261009T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270115T090000Z
+DTEND:20270115T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270115T090000Z
+DTEND:20270115T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270122T090000Z
+DTEND:20270122T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270115T090000Z
+DTEND:20270115T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270122T090000Z
+DTEND:20270122T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270129T090000Z
+DTEND:20270129T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270115T090000Z
+DTEND:20270115T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270122T090000Z
+DTEND:20270122T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270129T090000Z
+DTEND:20270129T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270205T090000Z
+DTEND:20270205T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-0@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-1@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261204T090000Z
+DTEND:20261204T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-2@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261211T090000Z
+DTEND:20261211T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-3@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261218T090000Z
+DTEND:20261218T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-4@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20261225T090000Z
+DTEND:20261225T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-5@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270101T090000Z
+DTEND:20270101T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-6@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270108T090000Z
+DTEND:20270108T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-7@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270115T090000Z
+DTEND:20270115T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-8@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270122T090000Z
+DTEND:20270122T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-9@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270129T090000Z
+DTEND:20270129T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-10@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270205T090000Z
+DTEND:20270205T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-11@dcu-timetable
+DTSTAMP:20260831T145130Z
+DTSTART:20270212T090000Z
+DTEND:20270212T110000Z
+SUMMARY:Activity: MEC1003 Mechanics of Materials I
+DESCRIPTION:Activity with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
 LOCATION:
 END:VEVENT
 END:VCALENDAR
