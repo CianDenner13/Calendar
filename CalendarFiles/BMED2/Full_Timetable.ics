@@ -1,0 +1,2049 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DCU Timetable - Full Timetable - BMED2//EN
+X-WR-CALNAME:Full Timetable - BMED2
+DTSTAMP:20260901T125321Z
+BEGIN:VEVENT
+UID:18f5a7ca-030d-433e-8cc2-11f794f5d1bc-20260914T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260914T140000Z
+DTEND:20260914T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:fb02f948-ac72-45c9-a15b-db54e64058e0-20260921T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260921T140000Z
+DTEND:20260921T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:33601c3b-323c-41f7-b6f1-020305067a48-20260928T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260928T140000Z
+DTEND:20260928T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa3c0c4-e7c3-4e7f-9947-c546a6e84ae9-20261005T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261005T140000Z
+DTEND:20261005T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:8114674b-1bf5-42d2-a88b-928438940777-20261012T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261012T140000Z
+DTEND:20261012T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:230cd262-54d1-4505-8771-c7465212b30d-20261019T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261019T140000Z
+DTEND:20261019T150000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:fad086c5-31f6-4802-8788-adfd92c075a7-20261026T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261026T150000Z
+DTEND:20261026T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:732d604d-9db2-486f-a159-eaa3b09112b1-20261102T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261102T150000Z
+DTEND:20261102T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5b2df7-dfe0-4f82-84da-d880f6d962a6-20261109T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261109T150000Z
+DTEND:20261109T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:33323ad2-ea90-402a-8006-191cc6de6315-20261116T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261116T150000Z
+DTEND:20261116T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:86cd98aa-97b3-4350-99e1-3d1d9e936bd6-20261123T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261123T150000Z
+DTEND:20261123T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:3aaf02a0-1fde-42a5-9111-f78624bf79c3-20260914T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260914T150000Z
+DTEND:20260914T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:f6834962-3e36-4bc8-b383-ac307d80c525-20260921T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260921T150000Z
+DTEND:20260921T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:5be59e8f-77bb-42e0-aab3-224452982ece-20260928T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260928T150000Z
+DTEND:20260928T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:c2acab5b-e1c4-433e-af55-dbfb59975826-20261005T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261005T150000Z
+DTEND:20261005T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:c9575af5-681f-4ec2-9ad7-eaadc2cb2cce-20261012T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261012T150000Z
+DTEND:20261012T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:cb6b8146-bdc7-43d7-99ad-9b2a25ee76aa-20261019T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261019T150000Z
+DTEND:20261019T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0c4b5e-e9ad-44d4-b48e-3a1bc12a35a6-20261026T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261026T160000Z
+DTEND:20261026T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:c1180e28-0b2f-47ca-b443-94dff768d6b4-20261102T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261102T160000Z
+DTEND:20261102T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b798d8-6c89-4f73-86f4-734a6031da74-20261109T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261109T160000Z
+DTEND:20261109T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:04e31edb-916f-4843-b41e-f57df79292ef-20261116T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261116T160000Z
+DTEND:20261116T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd9ef16-461c-491d-af70-358dde64ee25-20261123T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261123T160000Z
+DTEND:20261123T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:57a5f562-abe0-4f00-b897-27331fc6acc2-20261202T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261202T110000Z
+DTEND:20261202T123000Z
+SUMMARY:Final CA exam: BIO1000 How life works 1
+DESCRIPTION:Final CA exam with Loscher C in GLA.HG20\, GLA.HG22\, GLA.HG23\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.HG20\, GLA.HG22\, GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building\, Glasnevin Campus\, Alice Reeves Building\, Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG20\, GLA.HG22\, GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6c37a3-ed9f-4cff-882a-e480f4ca6311-20260915T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260915T150000Z
+DTEND:20260915T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:725b1a1b-a61a-41a1-89a3-1246a8ab9426-20260922T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260922T150000Z
+DTEND:20260922T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:7698e9c5-a7bd-4308-b7c4-9cd11e38717d-20260929T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260929T150000Z
+DTEND:20260929T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:09c02475-623c-48df-922e-2a3bb37706dc-20261006T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261006T150000Z
+DTEND:20261006T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc19c59-591a-4fe2-850e-46c68d71d78b-20261013T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261013T150000Z
+DTEND:20261013T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Loscher C in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Loscher C\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b5d25c-bb6f-4fb0-83a5-7464159fedc8-20261020T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261020T150000Z
+DTEND:20261020T160000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:86ee2f33-5980-467d-9df7-25c1f3db8d3e-20261027T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261027T160000Z
+DTEND:20261027T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:1d06ed24-8828-4057-803e-f6dc63a6d029-20261103T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261103T160000Z
+DTEND:20261103T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.SA101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:f0963a2a-ab47-485c-b34c-08ee4edf2d1f-20261110T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261110T160000Z
+DTEND:20261110T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:1c79b921-26c6-48a1-b9c7-c36d97d872f8-20261117T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261117T160000Z
+DTEND:20261117T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:1fa91084-25aa-4a67-a783-657e2eb5bfe5-20261124T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261124T160000Z
+DTEND:20261124T170000Z
+SUMMARY:How life works 1: BIO1000 How life works 1
+DESCRIPTION:How life works 1 with Thilliez G in GLA.T101\n\nModule: BIO1000 How life works 1\nStaff: Thilliez G\nLocation: GLA.T101\nLocation UserText5: Glasnevin Campus\, Terence Larkin Theatre
+LOCATION:GLA.T101
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc92572-ed0c-4604-8024-01645ddcfe68-20260907T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260907T100000Z
+DTEND:20260907T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:689e7fdf-3155-4c56-b742-14e2ff7ed428-20260914T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260914T100000Z
+DTEND:20260914T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0573b0-a5e5-44ff-9de3-d299d844de63-20260921T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260921T100000Z
+DTEND:20260921T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4d0f1c-3f72-47bf-a2bd-eb9d9b236f59-20260928T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260928T100000Z
+DTEND:20260928T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee6be2d-fa30-4164-a985-02da5190d791-20261005T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261005T100000Z
+DTEND:20261005T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:d19a4623-cc92-4dad-90c2-dad83dd08b68-20261012T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261012T100000Z
+DTEND:20261012T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c16ab537-0a2e-48b9-85c1-2595acc4b64e-20261019T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261019T100000Z
+DTEND:20261019T120000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:18659f4c-92a3-4dbe-8925-d1740cca657f-20261026T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261026T110000Z
+DTEND:20261026T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ac468e8b-699c-468c-a8fb-6544252820b5-20261102T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261102T110000Z
+DTEND:20261102T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ba364efe-e2af-47ac-a715-75a3c51b9c00-20261109T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261109T110000Z
+DTEND:20261109T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c129c1ca-2919-4980-a9c9-fe711f19e165-20261116T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261116T110000Z
+DTEND:20261116T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:d4749080-9d75-4db9-82f1-4f413ebddac3-20261123T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261123T110000Z
+DTEND:20261123T130000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:47ff1502-64b0-4961-935b-5b60c709b280-20260909T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260909T130000Z
+DTEND:20260909T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ef87199f-7d93-4242-bc41-27a7a46af50e-20260916T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260916T130000Z
+DTEND:20260916T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c83cb0-3728-429e-a0d8-5de285a45ee3-20260923T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260923T130000Z
+DTEND:20260923T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:7af5e252-d7da-4e15-b915-23f1867c79da-20260930T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260930T130000Z
+DTEND:20260930T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:a77869bc-de17-4840-8e88-b89cb2c2e0e2-20261007T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261007T130000Z
+DTEND:20261007T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:67fe04e1-2bc3-4982-a8ae-19bd65634da1-20261014T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261014T130000Z
+DTEND:20261014T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:9901c841-2812-4c9d-b696-3a6265d8f6da-20261021T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261021T130000Z
+DTEND:20261021T140000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c30903b9-9433-4ab7-9337-3913883e0f59-20261028T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261028T140000Z
+DTEND:20261028T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:3f611648-0583-4ab1-a7a0-1975c69c5bad-20261104T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261104T140000Z
+DTEND:20261104T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:33b58bec-b351-4793-905a-4c24e7aed332-20261111T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261111T140000Z
+DTEND:20261111T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:68372d2d-e47e-4b64-a411-f84fb93ed31f-20261118T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261118T140000Z
+DTEND:20261118T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:da3f5f89-a3a5-48f1-9688-31e6df60880b-20261125T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261125T140000Z
+DTEND:20261125T150000Z
+SUMMARY:Lecture: EEG1009 Engineering Mathematics III
+DESCRIPTION:Lecture with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ec96fc-cd77-4a67-8e1a-6633af8b5794-20260909T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260909T140000Z
+DTEND:20260909T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:672e0413-f9f2-48af-b9dd-68ce18c861e1-20260916T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260916T140000Z
+DTEND:20260916T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:6f7c2c3b-fd6d-4603-ac7a-119109bee2e4-20260923T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260923T140000Z
+DTEND:20260923T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:37bc311c-9fbd-4550-823e-8eb109287c8f-20260930T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260930T140000Z
+DTEND:20260930T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5bd44f-01bf-4d06-9f30-1f9c81a9d887-20261007T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261007T140000Z
+DTEND:20261007T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:d93ee65f-d2d4-4a02-a7b9-8a4635ccb4f6-20261014T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261014T140000Z
+DTEND:20261014T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:bb260e58-2735-4df9-a2dd-d781fb4ade10-20261021T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261021T140000Z
+DTEND:20261021T150000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:a1df2122-cb4a-4241-b1ac-175693a087da-20261028T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261028T150000Z
+DTEND:20261028T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:501b8fa7-5cd1-407c-a480-c8edf25fd6bc-20261104T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261104T150000Z
+DTEND:20261104T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:b0693f3b-666b-405c-88e2-3d2946636862-20261111T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261111T150000Z
+DTEND:20261111T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:cc3c2b29-4779-475a-a505-98acaf26e71d-20261118T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261118T150000Z
+DTEND:20261118T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5e1313f2-ab96-4a64-bc15-3a27b1e3a660-20261125T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261125T150000Z
+DTEND:20261125T160000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Lowney\, D in GLA.SA301\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Lowney\, D\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:62742b68-c77c-47a3-8e44-56fd4b348765-20260910T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260910T090000Z
+DTEND:20260910T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:29215704-32eb-480b-b8db-a36079ff9284-20260917T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260917T090000Z
+DTEND:20260917T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:1251f603-a4dc-4dfc-a0f0-06fde767d9fe-20260924T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260924T090000Z
+DTEND:20260924T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:08c50b01-e0e3-43a6-b573-b971950bd4d5-20261001T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261001T090000Z
+DTEND:20261001T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:5910e1a2-6890-4a99-a12f-91413c6e2f04-20261008T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261008T090000Z
+DTEND:20261008T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:71edc5b3-7f07-4aef-bd41-3f11773da6f9-20261015T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261015T090000Z
+DTEND:20261015T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:83ace139-f657-4ee5-9139-e5111319f4ba-20261022T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261022T090000Z
+DTEND:20261022T100000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:54c9e480-1674-4ce4-8ae5-24f171cdf8a2-20261029T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261029T100000Z
+DTEND:20261029T110000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:d723a95b-c562-4caf-8171-1a8ec2c16b97-20261105T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261105T100000Z
+DTEND:20261105T110000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:81c0a5e1-1e6d-4b42-9d06-4a5dd85a5361-20261112T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261112T100000Z
+DTEND:20261112T110000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:427c4eeb-e462-4c35-8e9d-cc453911d039-20261119T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261119T100000Z
+DTEND:20261119T110000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:67856c9a-442c-4169-b748-610dcc27d371-20261126T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261126T100000Z
+DTEND:20261126T110000Z
+SUMMARY:Tutorial: EEG1009 Engineering Mathematics III
+DESCRIPTION:Tutorial with Prasad\, D in GLA.QG27\n\nModule: EEG1009 Engineering Mathematics III\nStaff: Prasad\, D\nLocation: GLA.QG27\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG27
+END:VEVENT
+BEGIN:VEVENT
+UID:92667a23-763d-4095-92be-0e21d0466254-20260914T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260914T090000Z
+DTEND:20260914T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-20260921T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260921T090000Z
+DTEND:20260921T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-20260928T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260928T090000Z
+DTEND:20260928T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:dae13358-ab64-461a-8ff1-7dea01f1c731-20261005T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261005T090000Z
+DTEND:20261005T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:5fa1e823-d572-40f5-80c1-da1debce6731-20261012T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261012T090000Z
+DTEND:20261012T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-20261019T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261019T090000Z
+DTEND:20261019T100000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-20261026T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261026T100000Z
+DTEND:20261026T110000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-20261102T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261102T100000Z
+DTEND:20261102T110000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-20261109T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261109T100000Z
+DTEND:20261109T110000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-20261116T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261116T100000Z
+DTEND:20261116T110000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:23c3fba0-63b5-457a-82f0-543d64a489a2-20261123T100000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261123T100000Z
+DTEND:20261123T110000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG13
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-20260916T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260916T160000Z
+DTEND:20260916T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-20260923T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260923T160000Z
+DTEND:20260923T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-20260930T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260930T160000Z
+DTEND:20260930T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:6eec8bc6-758b-48ef-9449-246ca59298d4-20261007T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261007T160000Z
+DTEND:20261007T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-20261014T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261014T160000Z
+DTEND:20261014T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:a12091c7-0c88-4537-9807-528f4123dc9e-20261021T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261021T160000Z
+DTEND:20261021T170000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-20261028T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261028T170000Z
+DTEND:20261028T180000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:d2cb600f-581e-4e9a-a52f-236a6068e671-20261104T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261104T170000Z
+DTEND:20261104T180000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:113471a1-af9a-4633-be62-60addaf7d115-20261111T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:e46bdfc6-4e9d-458b-a248-11c29f093914-20261118T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:21c42c44-54be-4325-a63c-700e4d7b4d71-20261125T170000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261125T170000Z
+DTEND:20261125T180000Z
+SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:a930018e-90f0-4033-8208-ff8d9f4f0d01-20260918T130000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260918T120000Z
+DTEND:20260918T140000Z
+SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG15\, GLA.SG16
+END:VEVENT
+BEGIN:VEVENT
+UID:3735b74f-c65c-44e8-9141-43a7b2a44465-20261002T130000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261002T120000Z
+DTEND:20261002T140000Z
+SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG15\, GLA.SG16
+END:VEVENT
+BEGIN:VEVENT
+UID:d114208b-301e-47d5-80db-65b4851af443-20261016T130000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261016T120000Z
+DTEND:20261016T140000Z
+SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG15\, GLA.SG16
+END:VEVENT
+BEGIN:VEVENT
+UID:3748575f-e1ad-43af-b9a9-3502cf1370e4-20261030T130000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261030T130000Z
+DTEND:20261030T150000Z
+SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
+DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SG15\, GLA.SG16
+END:VEVENT
+BEGIN:VEVENT
+UID:13434520-e596-4ce1-bb5a-886bf90818c9-20260910T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260910T110000Z
+DTEND:20260910T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:3465de43-b8ee-4191-a99e-77ea96124cb2-20260917T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260917T110000Z
+DTEND:20260917T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:e01b4c9f-d255-4ca3-8f03-c4ca7c83f4e1-20260924T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260924T110000Z
+DTEND:20260924T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4bcd4c-f78c-443b-b2d9-06e6356c6601-20261001T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261001T110000Z
+DTEND:20261001T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6ed06a-880b-42b7-a375-82a8cf6f7f44-20261008T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261008T110000Z
+DTEND:20261008T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:d1035c9e-c30c-4c5f-9815-090389537a9e-20261015T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261015T110000Z
+DTEND:20261015T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:286a4180-0ec7-44fc-83c5-f6387c85b934-20261022T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261022T110000Z
+DTEND:20261022T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:558e5d37-2213-4adb-b0a5-e0e4dde64433-20261029T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261029T120000Z
+DTEND:20261029T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8e14a2-7b34-442b-a458-a004d2ff690e-20261105T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261105T120000Z
+DTEND:20261105T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8731c8-8fb3-46fb-b4ea-05ecae5ba1f5-20261112T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261112T120000Z
+DTEND:20261112T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:35ac2e7e-335e-4817-ad52-4399202d6867-20261119T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261119T120000Z
+DTEND:20261119T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.QG13\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.QG13\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG13
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce0c82c-0a36-435d-90a0-3727f13b92b1-20260908T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260908T110000Z
+DTEND:20260908T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:aa4fb56a-93c1-47ea-936d-9c58f42b4fc5-20260915T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260915T110000Z
+DTEND:20260915T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:a18ce25e-5522-401e-b24e-bb194a4acf27-20260922T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260922T110000Z
+DTEND:20260922T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:5f827b44-0e9d-4db8-a519-1b20859f7002-20260929T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260929T110000Z
+DTEND:20260929T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:35a5f259-8845-48f0-a5e2-26e963f29b7d-20261006T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261006T110000Z
+DTEND:20261006T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:7008f1e7-e73e-4e71-a50d-264784a529c3-20261013T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261013T110000Z
+DTEND:20261013T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc36091-125f-4a1d-b9ad-baa629628b22-20261020T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261020T110000Z
+DTEND:20261020T120000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:89919c0d-1c86-48b2-b4d1-c485eb503b66-20261027T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261027T120000Z
+DTEND:20261027T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:14df7f9f-ae57-47e4-8d7c-661e3c543987-20261103T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261103T120000Z
+DTEND:20261103T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:ce84cbee-e1f7-4f94-9634-29b0da6878f1-20261110T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261110T120000Z
+DTEND:20261110T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:75a7e5eb-07a5-4ee7-b440-f7159d73db56-20261117T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261117T120000Z
+DTEND:20261117T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a44a14-db7a-4efa-94e9-df98ac1c3c94-20261124T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261124T120000Z
+DTEND:20261124T130000Z
+SUMMARY:Lecture: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Lecture with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5b8621-901c-4345-9d0a-62702e21c8e8-20260917T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260917T130000Z
+DTEND:20260917T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:281612fa-85a1-4cc4-bb2f-58a3743d7819-20260924T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260924T130000Z
+DTEND:20260924T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:722db2fe-69bc-4d4e-b60f-a05c9290ee7e-20261001T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261001T130000Z
+DTEND:20261001T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:b4e0794d-3917-4859-bf31-5e3d717eeef8-20261008T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261008T130000Z
+DTEND:20261008T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:95a5bd34-90de-47d0-a57e-5546eaf5b830-20261015T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261015T130000Z
+DTEND:20261015T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f09297-0766-4308-926d-6d933db7738d-20261022T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261022T130000Z
+DTEND:20261022T150000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:5543ce05-9aff-4088-a05e-48da779df1d9-20261029T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261029T140000Z
+DTEND:20261029T160000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:79f35b03-b041-4d2e-8f2d-77d025de724d-20261105T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261105T140000Z
+DTEND:20261105T160000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:2acea448-5e23-469e-91e2-bc0ae97acb84-20261112T140000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261112T140000Z
+DTEND:20261112T160000Z
+SUMMARY:Practical: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Practical with Boland C. in GLA.SB32\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SB32\nLocation UserText5: Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB32
+END:VEVENT
+BEGIN:VEVENT
+UID:43b0912e-89c1-4075-a16c-4e2163dd7143-20260911T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260911T110000Z
+DTEND:20260911T120000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.FTG11\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.FTG11\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG11
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ee5c10-4bd7-4245-aed2-51425321ee97-20260918T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260918T110000Z
+DTEND:20260918T120000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.FTG11\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.FTG11\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG11
+END:VEVENT
+BEGIN:VEVENT
+UID:11702ce0-e835-4275-83b6-79dd6fb8ea82-20260925T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260925T110000Z
+DTEND:20260925T120000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.FTG11\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.FTG11\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG11
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1c8138-aa10-4c40-9b97-6b7f7682f234-20261002T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261002T110000Z
+DTEND:20261002T120000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.FTG11\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.FTG11\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FTG11
+END:VEVENT
+BEGIN:VEVENT
+UID:990ed12a-32b8-4d91-a59c-34feca3d2d82-20261009T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261009T110000Z
+DTEND:20261009T120000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.SA301\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA301
+END:VEVENT
+BEGIN:VEVENT
+UID:62629f1b-2584-455f-a7aa-165a359d692a-20261014T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261014T150000Z
+DTEND:20261014T160000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:73522ec5-b28c-4583-a377-9d2b3ea4ee8d-20261021T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261021T150000Z
+DTEND:20261021T160000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:82e8953c-b7ad-4375-887e-27ea4a4eba60-20261028T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261028T160000Z
+DTEND:20261028T170000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1b317e53-3f34-49de-840e-eacbd6989b8f-20261104T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261104T160000Z
+DTEND:20261104T170000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:59119430-6a0c-4abc-97d5-dccf6257564f-20261113T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261113T120000Z
+DTEND:20261113T130000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.SA101\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab2d88e-0b05-4059-821d-4a37375015cc-20261120T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261120T120000Z
+DTEND:20261120T130000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.SA101\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1c46ff-dcec-4e23-a282-f9bebeec23d3-20261127T120000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261127T120000Z
+DTEND:20261127T130000Z
+SUMMARY:Tutorial: MEC1001 Thermodynamics:Energy
+DESCRIPTION:Tutorial with Boland C. in GLA.SA101\n\nModule: MEC1001 Thermodynamics:Energy\nStaff: Boland C.\nLocation: GLA.SA101\nLocation UserText5: Glasnevin Campus\, Stokes Extension
+LOCATION:GLA.SA101
+END:VEVENT
+BEGIN:VEVENT
+UID:de83c1d1-273d-493e-ac99-40c3023b6561-20260918T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260918T140000Z
+DTEND:20260918T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:b77cf4d0-7ea0-4f86-a577-2ad901206cbe-20260925T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260925T140000Z
+DTEND:20260925T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcb5a51-5d63-40b4-b58d-4ca4d493a0cf-20261002T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:581fc7b3-ea83-4fd3-88eb-c820b17af76a-20261009T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261009T140000Z
+DTEND:20261009T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:a27fbcd0-e1c8-430c-abf3-d70e894565da-20261016T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261016T140000Z
+DTEND:20261016T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58e188-ce93-4032-86ee-a5c85cab6b25-20261023T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261023T140000Z
+DTEND:20261023T160000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:c27e6315-896c-4cf4-85de-5e2de622e592-20261030T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261030T150000Z
+DTEND:20261030T170000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:4ebe5f73-38b3-446f-93b0-d58983fb50f5-20261106T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261106T150000Z
+DTEND:20261106T170000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:839f84a2-fe03-4b05-a71b-363f8acab43e-20261113T150000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261113T150000Z
+DTEND:20261113T170000Z
+SUMMARY:Practical: MEC1003 Mechanics of Materials I
+DESCRIPTION:Practical with Boland C. in GLA.SB14\, GLA.SB12 & SB12-A\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.SB14\, GLA.SB12 & SB12-A\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB14\, GLA.SB12 & SB12-A
+END:VEVENT
+BEGIN:VEVENT
+UID:319d5bcf-81ca-48f7-b48a-b3b6df29ecbb-20260916T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260916T080000Z
+DTEND:20260916T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0f5396-6b0e-4a2c-8bec-d1c27d60fbff-20260923T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260923T080000Z
+DTEND:20260923T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:0e517469-21ec-4439-ad84-43001c6052df-20260930T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260930T080000Z
+DTEND:20260930T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a6ce04-fe25-400e-ad73-8ccb49534025-20261007T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261007T080000Z
+DTEND:20261007T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac72a33-85a7-4cce-9e6e-b09df5d801df-20261014T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261014T080000Z
+DTEND:20261014T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d1097ebe-40c3-4137-aad3-17e1eefbb268-20261021T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261021T080000Z
+DTEND:20261021T090000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:cb914a8c-736c-4b9c-a952-6be5e7b610ad-20261028T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261028T090000Z
+DTEND:20261028T100000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:faf82ef1-d4cc-4274-84fa-f38ef4d1741d-20261104T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261104T090000Z
+DTEND:20261104T100000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:5f65182e-bceb-4293-b27c-09da6d0afbb3-20261111T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261111T090000Z
+DTEND:20261111T100000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:9576902a-5799-4cad-9dea-ef3de13128e8-20260917T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260917T100000Z
+DTEND:20260917T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3f0c8e-227e-498b-a7f3-1cc8b326eaa2-20260924T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260924T100000Z
+DTEND:20260924T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:4879a2cd-8e03-4aa4-aa4a-e57f93e38c43-20261001T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261001T100000Z
+DTEND:20261001T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:552f2aa1-74c6-4813-a465-141b9153d53b-20261008T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261008T100000Z
+DTEND:20261008T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2657b3c4-0444-4e40-b376-999349ffa8cb-20261015T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261015T100000Z
+DTEND:20261015T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:d21f5840-ee37-46a4-ab14-3a61e9f61800-20261022T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261022T100000Z
+DTEND:20261022T110000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:943d11b5-a3b4-4b91-bba7-c16f7f491302-20261029T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:442b3d3c-9934-486c-810b-8111e19089fb-20261105T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261105T110000Z
+DTEND:20261105T120000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6bab6c-68fa-4f68-9f07-df18c8cddb11-20261112T110000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+SUMMARY:Tutorial: MEC1003 Mechanics of Materials I
+DESCRIPTION:Tutorial with Boland C. in GLA.HG23\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.\nLocation: GLA.HG23\nLocation UserText5: Glasnevin Campus\, Alice Reeves Building
+LOCATION:GLA.HG23
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb2329a-e890-46e4-bd45-b47d6917ce97-20260911T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260911T080000Z
+DTEND:20260911T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09d6ae65-0bc7-46f9-a082-cb8dbfc0b5df-20260918T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260918T080000Z
+DTEND:20260918T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:51f5c0b8-1946-4a17-81f5-838be602cad8-20260925T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260925T080000Z
+DTEND:20260925T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:585640d7-38b4-43a2-9804-b4a7c5d0339a-20261002T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261002T080000Z
+DTEND:20261002T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdbee62-d8a9-4897-a19e-b240db5d34ad-20261009T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261009T080000Z
+DTEND:20261009T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:faa9722d-4f92-48ef-be4a-1eacd32c76fa-20261016T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261016T080000Z
+DTEND:20261016T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:95ec3dad-8c20-48ff-b3e9-aaf2708e6001-20261023T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261023T080000Z
+DTEND:20261023T100000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:1afb4744-c329-4035-a981-2d1d1e2e6f6b-20261030T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261030T090000Z
+DTEND:20261030T110000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:43a08b74-32df-4d1e-a95d-523a55077ca8-20261106T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261106T090000Z
+DTEND:20261106T110000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:d41e3b6b-3766-4a65-9bf6-747a83898424-20261113T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261113T090000Z
+DTEND:20261113T110000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:09ec95d8-379c-4b97-a634-b15b55185d86-20261120T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261120T090000Z
+DTEND:20261120T110000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:8a321b77-5207-44a2-955b-bd8a3b96d1e0-20261127T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:Lecture: MEC1003 Mechanics of Materials I
+DESCRIPTION:Lecture with Boland C.\n\nModule: MEC1003 Mechanics of Materials I\nStaff: Boland C.
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcaeb96-d5dd-4e74-8937-82d3aa7ec789-20260910T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260910T150000Z
+DTEND:20260910T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:33ba25c5-394b-4d6a-ae88-22ab0282f07a-20260917T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260917T150000Z
+DTEND:20260917T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:a63aacb0-f4e8-4897-9b83-8355d750dd57-20260924T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260924T150000Z
+DTEND:20260924T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:89649e34-5b1c-4c6e-b69a-640f30f9a0ad-20261001T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261001T150000Z
+DTEND:20261001T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1169c0-d4c0-493e-b678-60e7bca25223-20261008T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261008T150000Z
+DTEND:20261008T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:09a61638-8c47-479f-a3af-68643bfa0f4e-20261015T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261015T150000Z
+DTEND:20261015T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:d0148e2f-6838-4fc6-97a3-33ce043372d9-20261022T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261022T150000Z
+DTEND:20261022T160000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:10cec8dc-7b6f-4aa1-9e7f-14eeb1e895d0-20261029T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261029T160000Z
+DTEND:20261029T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:6e00129b-137f-4b0d-bce7-3fe0aa36f762-20261105T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261105T160000Z
+DTEND:20261105T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:135d7d1c-d786-40c0-92a6-f9437e0ef0c1-20261112T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261112T160000Z
+DTEND:20261112T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:2f066751-8b95-49b4-b447-326760ad9593-20261119T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261119T160000Z
+DTEND:20261119T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:b52fd0c8-6f71-426c-9be5-062cfacc6983-20261126T160000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261126T160000Z
+DTEND:20261126T170000Z
+SUMMARY:Lecture: MEC1005 Design & Solid Modelling
+DESCRIPTION:Lecture with Saffari M.\, Carthy E in GLA.QG15\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Saffari M.\, Carthy E\nLocation: GLA.QG15\nLocation UserText5: Glasnevin Campus\, DCU Business School
+LOCATION:GLA.QG15
+END:VEVENT
+BEGIN:VEVENT
+UID:e27869ac-29b8-416f-a890-cd1e604d3403-20260908T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260908T080000Z
+DTEND:20260908T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:35b89f7a-ea59-4d82-980c-54fc5bf9b6f4-20260915T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8ea7ac-0aba-4a85-951f-33b593b25d65-20260922T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260922T080000Z
+DTEND:20260922T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:827c9c64-3338-4ee6-a434-f634940c13ad-20260929T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260929T080000Z
+DTEND:20260929T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:318ca1f2-7cba-483c-b105-02195496f6de-20261006T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261006T080000Z
+DTEND:20261006T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2aa639-51fb-4e68-8175-05dd62ab3fd5-20261013T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261013T080000Z
+DTEND:20261013T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce65116-2739-4b40-b70e-a9da741bec42-20261020T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261020T080000Z
+DTEND:20261020T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:fcc058d6-3bb9-4559-b1ff-a9d51698834a-20261027T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261027T090000Z
+DTEND:20261027T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:40a596ba-94b6-463d-b92b-b385ea08e9cb-20261103T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261103T090000Z
+DTEND:20261103T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:85a9e078-d408-49c5-9ed3-c2085c6a6ae2-20261110T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261110T090000Z
+DTEND:20261110T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:f79dfa5c-cefd-440c-9384-07e1312baec9-20261117T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261117T090000Z
+DTEND:20261117T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:8c00a401-8a90-4689-959a-5acbff6135bd-20261124T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261124T090000Z
+DTEND:20261124T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Young P in GLA.SB33\, GLA.SB38\, GLA.SB39\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Young P\nLocation: GLA.SB33\, GLA.SB38\, GLA.SB39\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
+LOCATION:GLA.SB33\, GLA.SB38\, GLA.SB39
+END:VEVENT
+BEGIN:VEVENT
+UID:07bd8ba0-051f-4d39-abe0-ad58e3bd8c2c-20260908T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260908T080000Z
+DTEND:20260908T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:2ea7e2e4-c488-434b-9153-a3510020b4c7-20260915T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260915T080000Z
+DTEND:20260915T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2027f6-ee07-4b6d-a176-5a2b3417ce4d-20260922T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260922T080000Z
+DTEND:20260922T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a26f6a-6b0d-4024-8a9b-508f114d8429-20260929T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20260929T080000Z
+DTEND:20260929T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:f673bd35-c2b3-4941-85d2-7a34400575ce-20261006T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261006T080000Z
+DTEND:20261006T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:17ff58d3-5ef9-4704-a7a3-3f9a959412ad-20261013T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261013T080000Z
+DTEND:20261013T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:601ccece-de6f-4929-9acc-80cc0a74d5e8-20261020T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261020T080000Z
+DTEND:20261020T100000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:8eec0e85-cd4a-4444-ad57-1ba889922bad-20261027T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261027T090000Z
+DTEND:20261027T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:0b03213b-11cd-46ed-8dfe-5e7dc2227d09-20261103T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261103T090000Z
+DTEND:20261103T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:2e05fa9f-da67-4396-be0a-fc0174cab559-20261110T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261110T090000Z
+DTEND:20261110T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:82579450-26ae-4103-adb3-db9d5c541dec-20261117T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261117T090000Z
+DTEND:20261117T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+BEGIN:VEVENT
+UID:9a27e713-f065-4400-b650-2a160384eba4-20261124T090000@dcu-timetable
+DTSTAMP:20260901T125321Z
+DTSTART:20261124T090000Z
+DTEND:20261124T110000Z
+SUMMARY:Studio Session: MEC1005 Design & Solid Modelling
+DESCRIPTION:Studio Session with Carthy E in GLA.FT307\n\nModule: MEC1005 Design & Solid Modelling\nStaff: Carthy E\nLocation: GLA.FT307\nLocation UserText5: Glasnevin Campus\, The Polaris Building
+LOCATION:GLA.FT307
+END:VEVENT
+END:VCALENDAR
