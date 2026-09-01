@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//DCU Timetable - EEN1018 Circuits Analysis Techniques//EN
 X-WR-CALNAME:EEN1018 Circuits Analysis Techniques
-DTSTAMP:20260831T152523Z
+DTSTAMP:20260901T122843Z
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-0@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:92667a23-763d-4095-92be-0e21d0466254-20260914T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260914T090000Z
 DTEND:20260914T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -13,8 +13,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-1@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-20260921T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260921T090000Z
 DTEND:20260921T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -22,8 +22,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-2@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-20260928T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260928T090000Z
 DTEND:20260928T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -31,8 +31,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-3@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:dae13358-ab64-461a-8ff1-7dea01f1c731-20261005T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261005T090000Z
 DTEND:20261005T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -40,8 +40,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-4@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:5fa1e823-d572-40f5-80c1-da1debce6731-20261012T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261012T090000Z
 DTEND:20261012T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -49,8 +49,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-5@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-20261019T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261019T090000Z
 DTEND:20261019T100000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -58,8 +58,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-6@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-20261026T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261026T100000Z
 DTEND:20261026T110000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -67,8 +67,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-7@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-20261102T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261102T100000Z
 DTEND:20261102T110000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -76,8 +76,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-8@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-20261109T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261109T100000Z
 DTEND:20261109T110000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -85,8 +85,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-9@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-20261116T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261116T100000Z
 DTEND:20261116T110000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -94,8 +94,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:92667a23-763d-4095-92be-0e21d0466254-10@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:23c3fba0-63b5-457a-82f0-543d64a489a2-20261123T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261123T100000Z
 DTEND:20261123T110000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -103,998 +103,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits
 LOCATION:GLA.FTG13
 END:VEVENT
 BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260921T090000Z
-DTEND:20260921T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260928T090000Z
-DTEND:20260928T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261005T090000Z
-DTEND:20261005T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261012T090000Z
-DTEND:20261012T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:cf41134f-63cc-4640-aaa0-101cbeb3e4bf-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260928T090000Z
-DTEND:20260928T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261005T090000Z
-DTEND:20261005T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261012T090000Z
-DTEND:20261012T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:4582b6b6-2f48-474d-9e1d-03bfba904cde-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261005T090000Z
-DTEND:20261005T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261012T090000Z
-DTEND:20261012T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:dae13358-ab64-461a-8ff1-7dea01f1c731-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261012T090000Z
-DTEND:20261012T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa1e823-d572-40f5-80c1-da1debce6731-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:fcdf82fc-e0af-4f1a-9a1c-1132112a5cfd-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:b51b2a65-f6b1-4717-a7aa-9228b582e39e-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270104T100000Z
-DTEND:20270104T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270104T100000Z
-DTEND:20270104T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:87a40810-2f25-4094-a5b0-5ebe14bc4848-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270111T100000Z
-DTEND:20270111T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261109T100000Z
-DTEND:20261109T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270104T100000Z
-DTEND:20270104T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270111T100000Z
-DTEND:20270111T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:29d6ba75-aec2-4219-9ad5-632a9eb5e366-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270118T100000Z
-DTEND:20270118T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261116T100000Z
-DTEND:20261116T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270104T100000Z
-DTEND:20270104T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270111T100000Z
-DTEND:20270111T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270118T100000Z
-DTEND:20270118T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:c1ade5e0-6fb2-4b1a-9c90-c205530ca401-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270125T100000Z
-DTEND:20270125T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261123T100000Z
-DTEND:20261123T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261130T100000Z
-DTEND:20261130T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261207T100000Z
-DTEND:20261207T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261214T100000Z
-DTEND:20261214T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261221T100000Z
-DTEND:20261221T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261228T100000Z
-DTEND:20261228T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270104T100000Z
-DTEND:20270104T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270111T100000Z
-DTEND:20270111T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270118T100000Z
-DTEND:20270118T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270125T100000Z
-DTEND:20270125T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:23c3fba0-63b5-457a-82f0-543d64a489a2-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270201T100000Z
-DTEND:20270201T110000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.FTG13\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.FTG13\nLocation UserText5: Glasnevin Campus\, The Polaris Building
-LOCATION:GLA.FTG13
-END:VEVENT
-BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-0@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-20260916T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260916T160000Z
 DTEND:20260916T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1102,8 +112,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-1@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-20260923T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260923T160000Z
 DTEND:20260923T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1111,8 +121,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-2@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-20260930T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260930T160000Z
 DTEND:20260930T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1120,8 +130,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-3@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:6eec8bc6-758b-48ef-9449-246ca59298d4-20261007T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261007T160000Z
 DTEND:20261007T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1129,8 +139,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-4@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-20261014T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261014T160000Z
 DTEND:20261014T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1138,8 +148,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-5@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:a12091c7-0c88-4537-9807-528f4123dc9e-20261021T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261021T160000Z
 DTEND:20261021T170000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1147,8 +157,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-6@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-20261028T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261028T170000Z
 DTEND:20261028T180000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1156,8 +166,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-7@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:d2cb600f-581e-4e9a-a52f-236a6068e671-20261104T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261104T170000Z
 DTEND:20261104T180000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1165,8 +175,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-8@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:113471a1-af9a-4633-be62-60addaf7d115-20261111T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261111T170000Z
 DTEND:20261111T180000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1174,8 +184,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-9@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:e46bdfc6-4e9d-458b-a248-11c29f093914-20261118T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1183,8 +193,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:2a9293e2-9589-4d13-b74a-e8046ae87d0a-10@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:21c42c44-54be-4325-a63c-700e4d7b4d71-20261125T170000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261125T170000Z
 DTEND:20261125T180000Z
 SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
@@ -1192,998 +202,8 @@ DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits
 LOCATION:GLA.SA301
 END:VEVENT
 BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260923T160000Z
-DTEND:20260923T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260930T160000Z
-DTEND:20260930T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261007T160000Z
-DTEND:20261007T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T160000Z
-DTEND:20261014T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261021T160000Z
-DTEND:20261021T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:7bddbeb2-a6be-4908-a488-9c1f2650bf2c-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260930T160000Z
-DTEND:20260930T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261007T160000Z
-DTEND:20261007T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T160000Z
-DTEND:20261014T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261021T160000Z
-DTEND:20261021T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:9d84258b-780e-45fb-a35b-65fab1ea6bbf-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261007T160000Z
-DTEND:20261007T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T160000Z
-DTEND:20261014T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261021T160000Z
-DTEND:20261021T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6eec8bc6-758b-48ef-9449-246ca59298d4-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T160000Z
-DTEND:20261014T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261021T160000Z
-DTEND:20261021T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:6d11f0a1-e5f3-47fe-a497-b546dc9c5ec2-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261021T160000Z
-DTEND:20261021T170000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:a12091c7-0c88-4537-9807-528f4123dc9e-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T170000Z
-DTEND:20261028T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:5fc83cf8-ad32-4f6f-958b-348fbc491d9b-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270106T170000Z
-DTEND:20270106T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261104T170000Z
-DTEND:20261104T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270106T170000Z
-DTEND:20270106T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:d2cb600f-581e-4e9a-a52f-236a6068e671-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270113T170000Z
-DTEND:20270113T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270106T170000Z
-DTEND:20270106T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270113T170000Z
-DTEND:20270113T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:113471a1-af9a-4633-be62-60addaf7d115-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270120T170000Z
-DTEND:20270120T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270106T170000Z
-DTEND:20270106T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270113T170000Z
-DTEND:20270113T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270120T170000Z
-DTEND:20270120T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e46bdfc6-4e9d-458b-a248-11c29f093914-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270127T170000Z
-DTEND:20270127T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T170000Z
-DTEND:20261125T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261202T170000Z
-DTEND:20261202T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T170000Z
-DTEND:20261209T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261216T170000Z
-DTEND:20261216T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-4@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261223T170000Z
-DTEND:20261223T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-5@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261230T170000Z
-DTEND:20261230T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-6@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270106T170000Z
-DTEND:20270106T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-7@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270113T170000Z
-DTEND:20270113T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-8@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270120T170000Z
-DTEND:20270120T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-9@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270127T170000Z
-DTEND:20270127T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:21c42c44-54be-4325-a63c-700e4d7b4d71-10@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20270203T170000Z
-DTEND:20270203T180000Z
-SUMMARY:Lecture: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Lecture with Ridgway\, Leah in GLA.SA301\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SA301\nLocation UserText5: Glasnevin Campus\, Stokes Extension
-LOCATION:GLA.SA301
-END:VEVENT
-BEGIN:VEVENT
-UID:e7bc81e1-b4c3-497c-b0b8-c6e814bdae45-0@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:e7bc81e1-b4c3-497c-b0b8-c6e814bdae45-20260916T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260916T090000Z
 DTEND:20260916T110000Z
 SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
@@ -2191,8 +211,8 @@ DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN10
 LOCATION:GLA.SG15\, GLA.SG16
 END:VEVENT
 BEGIN:VEVENT
-UID:e7bc81e1-b4c3-497c-b0b8-c6e814bdae45-1@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:23a17107-60fb-4253-b8f4-33449543d6bf-20260930T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20260930T090000Z
 DTEND:20260930T110000Z
 SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
@@ -2200,8 +220,8 @@ DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN10
 LOCATION:GLA.SG15\, GLA.SG16
 END:VEVENT
 BEGIN:VEVENT
-UID:e7bc81e1-b4c3-497c-b0b8-c6e814bdae45-2@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:de510aef-bb04-40f4-8902-79b2ca1e1f49-20261014T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261014T090000Z
 DTEND:20261014T110000Z
 SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
@@ -2209,118 +229,10 @@ DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN10
 LOCATION:GLA.SG15\, GLA.SG16
 END:VEVENT
 BEGIN:VEVENT
-UID:e7bc81e1-b4c3-497c-b0b8-c6e814bdae45-3@dcu-timetable
-DTSTAMP:20260831T152523Z
+UID:d23b1a7c-e9d2-4879-9212-1e8e95470472-20261028T100000@dcu-timetable
+DTSTAMP:20260901T122843Z
 DTSTART:20261028T100000Z
 DTEND:20261028T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:23a17107-60fb-4253-b8f4-33449543d6bf-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20260930T090000Z
-DTEND:20260930T110000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:23a17107-60fb-4253-b8f4-33449543d6bf-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T090000Z
-DTEND:20261014T110000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:23a17107-60fb-4253-b8f4-33449543d6bf-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T100000Z
-DTEND:20261028T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:23a17107-60fb-4253-b8f4-33449543d6bf-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T100000Z
-DTEND:20261111T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:de510aef-bb04-40f4-8902-79b2ca1e1f49-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261014T090000Z
-DTEND:20261014T110000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:de510aef-bb04-40f4-8902-79b2ca1e1f49-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T100000Z
-DTEND:20261028T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:de510aef-bb04-40f4-8902-79b2ca1e1f49-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T100000Z
-DTEND:20261111T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:de510aef-bb04-40f4-8902-79b2ca1e1f49-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T100000Z
-DTEND:20261125T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:d23b1a7c-e9d2-4879-9212-1e8e95470472-0@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261028T100000Z
-DTEND:20261028T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:d23b1a7c-e9d2-4879-9212-1e8e95470472-1@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261111T100000Z
-DTEND:20261111T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:d23b1a7c-e9d2-4879-9212-1e8e95470472-2@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261125T100000Z
-DTEND:20261125T120000Z
-SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
-DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
-LOCATION:GLA.SG15\, GLA.SG16
-END:VEVENT
-BEGIN:VEVENT
-UID:d23b1a7c-e9d2-4879-9212-1e8e95470472-3@dcu-timetable
-DTSTAMP:20260831T152523Z
-DTSTART:20261209T100000Z
-DTEND:20261209T120000Z
 SUMMARY:Tutorial: EEN1018 Circuits Analysis Techniques
 DESCRIPTION:Tutorial with Ridgway\, Leah in GLA.SG15\, GLA.SG16\n\nModule: EEN1018 Circuits Analysis Techniques\nStaff: Ridgway\, Leah\nLocation: GLA.SG15\, GLA.SG16\nLocation UserText5: Glasnevin Campus\, Stokes Building\, Glasnevin Campus\, Stokes Building
 LOCATION:GLA.SG15\, GLA.SG16
