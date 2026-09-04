@@ -14,4 +14,12 @@ https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/ME2/M
 https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/ME2/MEC1008_Pneumatics_&_Hydraulics.ics
 https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/ME2/Transversal_Skills__FEC.ics
 
-https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/Full__Timetable.ics
+
+
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/BIO1000_How_life_works_1.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/EEG1009_Engineering_Mathematics_III.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/EEN1018_Circuits_Analysis_Techniques.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/MEC1001_ThermodynamicsEnergy.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/MEC1003_Mechanics_of_Materials_I.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/MEC1005_Design_&_Solid_Modelling.ics
+https://raw.githubusercontent.com/CianDenner13/Calendar/main/CalendarFiles/BMED2/Full_Timetable.ics
